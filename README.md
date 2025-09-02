@@ -1,4 +1,4 @@
-# GoogleMapDirectionsSimple
+# GoogleMapDirectionsSimple 
 Konuma en yakın noktayı hesaplayan ve Google Map Direction API kullanarak bu noktaya giden güzergahı bulan basit bir uygulamadır.
 
 
